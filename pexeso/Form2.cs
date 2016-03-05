@@ -1,4 +1,6 @@
 ﻿/*
+Pexeso - Simple memory game
+
 Copyright (C) 2016  Martin Slanina
 
 This program is free software: you can redistribute it and/or modify
